@@ -1,2 +1,2 @@
-# ScrumExampleX
-Scrum denemesi
+# ScrumExample
+
